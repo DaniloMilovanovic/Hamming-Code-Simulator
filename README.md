@@ -67,18 +67,30 @@ You can run this simulation multiple times with different information words and 
 # Example Run
 
 Enter the length of the coded word: 7
+
 Do you want a parity bit? [y/n]n
+
 Coded word length:7
+
 Information word length: 4
 
+
 Enter the information word (in binary format): 1101
+
 Enter the changed bit position: 3
+
 Sent information word: 1101
+
 Sent coded word: 1010101
+
 Received coded word: 1000101
+
 Control sum: 3
+
 Parity sum: 0
+
 Corrected information word: 1101
+
 Corrected coded word: 1010101
 
 # Limitations
